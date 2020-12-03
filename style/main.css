@@ -1,6 +1,7 @@
 body{
     margin:0;
     font-family:consolas;
+    background: url(./img/pattern.svg);
 }
 
 form{
