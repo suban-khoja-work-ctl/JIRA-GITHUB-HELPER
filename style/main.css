@@ -1,7 +1,7 @@
 body{
     margin:0;
     font-family:consolas;
-    background-image: url(/JIRA-GITHUB-HELPER/img/pattern.svg);
+    background-image: url('/JIRA-GITHUB-HELPER/img/pattern.svg');
 }
 
 form{
